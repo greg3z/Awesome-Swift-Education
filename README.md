@@ -930,6 +930,7 @@
 - Protocol Extension Method Dispatch [:page_facing_up:](https://medium.com/ios-os-x-development/swift-protocol-extension-method-dispatch-6a6bf270ba94#.xsrtw75qp)
 - The Genius of Protocols [:page_facing_up:](https://www.wooji-juice.com/blog/swift-genius-of-protocols.html)
 + Properties of Types Conforming to Protocols [:page_facing_up:](http://ilya.puchka.me/properties-of-types-conforming-to-protocols-in-swift/)
++ Princess POP [:page_facing_up:](https://medium.com/swift-programming/protocol-oriented-programming-a3e192f6e8f2#.m996ivokx)
 
 [:arrow_up:](#index)
 
